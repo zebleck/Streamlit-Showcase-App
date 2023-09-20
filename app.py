@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Function to generate random data (simulate some computational workload)
-@st.cache
+@st.cache_data
 def generate_random_data(n_rows=100):
     return pd.DataFrame({
         'A': np.random.rand(n_rows),
