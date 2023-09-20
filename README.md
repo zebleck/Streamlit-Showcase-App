@@ -18,7 +18,7 @@ This repository contains an example Streamlit app that demonstrates some of the 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/Streamlit-Showcase-App.git
+   git clone https://github.com/zebleck/Streamlit-Showcase-App.git
    ```
 2. Navigate to the project repository:
    ```bash
